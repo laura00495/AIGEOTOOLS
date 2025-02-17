@@ -1,0 +1,5 @@
+[project]
+name = "aigeotools"
+version = "0.1.0"
+description = "GEO（AI 搜索引擎优化）智能内容优化平台 — 帮助品牌在 ChatGPT、Perplexity 等 AI 回答中被优先引用。支持关键词策略、多平台内容生成、E-E-A-T 优化、多模型验证和数据分析。"
+requires-python = ">=3.10"
